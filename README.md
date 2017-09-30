@@ -1,13 +1,12 @@
 # Instructions
 Original Author: omardelarosa
 
-1. Save both of the above files in the directory where you save your work
+1. Save the "build-all.sh" and "start.sh" files in the directory where you save your work
 
 2. Install node.js if you havent already, then install "nodemon" using the following command:
 
 ```
 npm install -g nodemon
-
 ```
 
 3. If you save your homeowork in `w02/hw2` directory relative to the script as I do, run from the command line as:
@@ -17,6 +16,8 @@ npm install -g nodemon
 ```
 
 4. Just do your work in `VS Code` or any text editor and it will re-compile each time you save.
+
+
 
 
 build-all.sh
